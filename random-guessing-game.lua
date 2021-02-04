@@ -1,4 +1,5 @@
 -- RANDOM GUESSING GAME VER.1.0
+--    Made by @venomboss985
 
 math.randomseed(os.time())
 randNum = math.random(1, 100)
