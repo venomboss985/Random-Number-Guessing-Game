@@ -31,6 +31,9 @@ In the future, I plan on adding the following:
   - Console app .exe
   - Possibly more...
 
+# Known Bugs
+  - If you choose the Settings menu, it will crash
+
 # Permissions
 Feel free to use my code anywhere you'd like, so long as I'm credited as "@venomboss985"
 
