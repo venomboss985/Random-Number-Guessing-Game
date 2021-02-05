@@ -33,6 +33,7 @@ In the future, I plan on adding the following:
 
 # Known Bugs
   - If you choose the Settings menu, it will crash
+  - In Custom Limited Gamemode, it counts the chances wrong
 
 # Permissions
 Feel free to use my code anywhere you'd like, so long as I'm credited as "@venomboss985"
