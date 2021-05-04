@@ -31,7 +31,7 @@ In the future, I plan on adding the following:
   - Console app .exe
   - Possibly more...
 
-# Known Bugs
+# Known Bugs in v1.0
   - If you choose the Settings menu, it will crash
   - In Custom Limited Gamemode, it counts the chances wrong
 
